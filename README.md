@@ -226,21 +226,12 @@ Python • Tkinter • ReportLab
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hirishi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirishi24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Hirishi24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170"/>
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake-dark.svg">
-</picture>
+<a href="https://github.com/Hirishi24">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hirishi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
+</a>
+<a href="https://github.com/Hirishi24">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hirishi24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
+</a>
 
 </div>
 
