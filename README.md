@@ -229,9 +229,15 @@ Python • Tkinter • ReportLab
 <a href="https://github.com/Hirishi24">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hirishi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
 </a>
-<a href="https://github.com/Hirishi24">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hirishi24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
-</a>
+
+<br/><br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hirishi24/hirishi24/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
