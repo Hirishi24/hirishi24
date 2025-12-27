@@ -231,7 +231,7 @@ Python • Tkinter • ReportLab
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hirishi24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hirishi24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170"/>
 
 <br/>
 
