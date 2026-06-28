@@ -41,13 +41,12 @@
 name: Harsha Siva Akash Saladi
 location: Amaravati, India
 education: B.Tech CSE @ SRM University AP 
-role: Student Developer | Research Intern | Entrepreneur
+role: Student Developer | Research Intern
 interests: [TinyML, Computer Vision, Edge AI, Full-Stack]
 ```
 
 - 🎓 CSE undergraduate with a strong academic foundation (**100% in Class X**, **96.1% in Intermediate**)
 - 🔬 Research Intern working on **TinyML** and **Computer Vision** applications
-- 🚀 Founder of **Hirishi Cloud Kitchen** — hands-on entrepreneurial experience
 - 🏆 **AP EAPCET 2023** — State Rank **1021** out of 3,00,000+ candidates
 - 📚 Currently rebuilding fundamentals with a **growth-first mindset**
 
@@ -187,22 +186,7 @@ interests: [TinyML, Computer Vision, Edge AI, Full-Stack]
 
 <table>
 <tr>
-<td width="50%">
-
-### 🍽️ Cloud Kitchen Website
-**Web Development**
-
-Full-stack website for online food ordering platform
-
-**Tech Stack:**
-```
-HTML • CSS • JavaScript • PHP • MySQL
-```
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirishi24)
-
-</td>
-<td width="50%">
+<td width="100%">
 
 ### 📄 Automated Invoice Generator
 **Python Application**
@@ -252,8 +236,6 @@ Python • Tkinter • ReportLab
 | 🏆 **AP EAPCET 2023** | State Rank 1021 / 3,00,000+ |
 | 📚 **Class X** | 100% Score |
 | 📖 **Intermediate** | 96.1% Score |
-| 💼 **E-Cell** | Core Member @ SRM AP |
-| 🍳 **Entrepreneurship** | Founded Hirishi Cloud Kitchen |
 
 </div>
 
